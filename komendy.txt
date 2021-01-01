@@ -1,0 +1,8 @@
+autoprefixer-cli - czytanie komend do pliku: 
+
+autoprefixer-cli -o style.prefixed.css style.css
+
+
+html-validate - wyswietlanie listy bledow : 
+
+html-validate *.html
